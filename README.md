@@ -6,9 +6,4 @@ This project analyzes my Spotify streaming history using Python, pandas, and Pow
 It showcases skills across data cleaning, exploratory analysis, dashboard design, and KPI development.
 
 
-Tech Stack
--Python
--Jupyter Notebook
--Power BI
--DAX Measures
--Power Query
+
